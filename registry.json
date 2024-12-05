@@ -1,0 +1,10 @@
+{
+    "1234567": {
+        "Name": "AwesomeModule",
+        "Version": "1.0.0"
+    },
+    "7654321": {
+        "Name": "CoolTool",
+        "Version": "2.1.3"
+    }
+}
